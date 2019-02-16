@@ -1,6 +1,6 @@
-owner=385440338321473546
-prefix=7
-game=7play | Lamyem
-stayinchannel=true
+owner=448964162840690700
+prefix=5
+game=5help | FalconCommunity :heart:
+stayinchannel=flase
 songinstatus=false
-token=NTQyNDAxNjc1ODQ4MDU2ODMz.DztecQ.k30StTprXIZ7Vjsqrz6hM06w1tU
+token=NTQ2MjYyNTg2NzQwNTcyMTgw.D0lqmw.5yB453rlc6YoJeq1KVUvNUVqYf8
